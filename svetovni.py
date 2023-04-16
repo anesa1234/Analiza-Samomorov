@@ -120,12 +120,12 @@ print(Graph_suicide(user_input))
 
 ## zemljevid držav obarvanih glede na stopnjo samomorov
 
-valid_inputs2 = sorted(set(Sex))
-valid_inputs3 = sorted(set(Year))
+valid_inputs2 = set(Sex)
+valid_inputs3 = set(Year)
 
 while True:
-    input_spol = input("Izberi spol: ")
-    input_leto = int(input("Izberi leto: "))
+    input_spol = input("Izberi spol (Male, Female ali Both Sexes): ")
+    input_leto = int(input("Izberi leto (2000-2019): "))
 
     if input_spol in valid_inputs2 and input_leto in valid_inputs3:
         print("Izbrali ste:", input_spol, "in", input_leto)
