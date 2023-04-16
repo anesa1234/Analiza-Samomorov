@@ -1,6 +1,6 @@
-# Analiza-Samomov
+# Analiza-Samomorv
 
-Ta repozitorij vsebuje projekt v katerem sva analizirali podatke o številu samomorov po svetu med leti 2000 in 2019. Projekt sva pripravili študentki drugega letnika na fakulteti za matematiko in fiziko, pri predmetu Programiranje2, Eva Mihelčič in Anesa Kurbegovič. 
+Ta repozitorij vsebuje projekt v katerem sva analizirali podatke o številu samomorov po svetu med leti 2000 in 2019 po svetu in številu v Sloveniji. Projekt sva pripravili študentki drugega letnika na fakulteti za matematiko in fiziko, pri predmetu Programiranje2, Eva Mihelčič in Anesa Kurbegovič. 
 
 Pri projektu smo uporabili programski jezik Python z uvažanjem podatkov iz excela. 
 
