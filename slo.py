@@ -13,7 +13,7 @@ df=pd.DataFrame(podatki_slo)
 
 
 
-drek
+da vidim ce dela veja
 
 
 letnice = df.iloc[1,2:]
