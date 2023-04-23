@@ -91,7 +91,7 @@ for leto in l75_79:
 for leto in l80inVec:
     slovar['80_in_vec']+= [leto]     
 
-print(slovar2)
+
 
 
 
